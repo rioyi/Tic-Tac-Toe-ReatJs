@@ -1,3 +1,18 @@
+# Criterios de aceptación
+- Te permite jugar tic-tac-toe.
+- Indica cuando un jugador ha ganado el juego.
+- Almacena el historial del juego como va progresando.
+- Permite a los jugadores revisar el historial del juego y ver versiones anteriores del tablero de juego.
+
+# Mejoras
+
+- Muestra la ubicación para cada movimiento en el formato (columna, fila) en la lista del historial de movimientos.
+- Convierte en negrita el elemento actualmente seleccionado en la lista de movimientos.
+- Reescribe el Board para usar 2 ciclos para hacer los cuadrados en vez de escribirlos a mano.
+- Agrega un botón de switch que te permita ordenar los movimientos en orden ascendente o descendente.
+- Cuando alguien gana, resalta los 3 cuadrados que hicieron que gane.
+- Cuando nadie gana, muestra un mensaje acerca de que el resultado es un empate.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
